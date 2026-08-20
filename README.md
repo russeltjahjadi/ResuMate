@@ -6,6 +6,15 @@
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+---
+
+## 🌐 Live Demo
+
+Try out the live application directly in your browser:  
+👉 **[ResuMate](https://resumate-rtuu.onrender.com/)**
+
+---
+
 ## ✨ Features
 
 - 🤖 **AI-Powered Analysis** - Leverages Google's Gemini AI for intelligent resume critique
